@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Menglong.li
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A quick learner, a full-stack developer, be able to develop under multi programming languages and frameworks. Good at Python, and design patterns. Be able to solve problems independently. Love reading English technology books. Proficiency in English writing and spoken English.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Links:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[stackoverflow](https://stackoverflow.com/users/5840062/menglong-li), [github](https://github.com/albertmenglongli)
 
-
-[jekyll-organization]: https://github.com/jekyll
